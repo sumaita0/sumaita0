@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ?
-- 📧shadagoru0@gmail.com
+- 📧rubayatasnim5@gmail.com
 
 <!---
 sumaita0/sumaita0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
